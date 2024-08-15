@@ -1,0 +1,12 @@
+{
+    "manifest_version": "0.1",
+    "name": "Panda Rush",
+    "description": "Work your way to become the ultimate Panda!",
+    "url": "https://pra-twa.pages.dev",
+    "icons": [
+        {
+            "src": "https://pra-twa.pages.dev/icons/tap_panda.png",
+            "sizes": "192x192"
+        }
+    ]
+}
